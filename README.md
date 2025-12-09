@@ -6,12 +6,12 @@ TimeWise is a **web-based time tracking app** that helps users log daily activit
 ---
 
 ## Live Demo
-[Insert Deployed Link Here]
+https://drive.google.com/file/d/1JNq0yrLYlVY1allPLPMueggdyUlIXSXb/view?usp=sharing
 
 ---
 
 ## Video Walkthrough
-[Insert YouTube / Google Drive Link Here]  
+  https://drive.google.com/file/d/1zdSYcUXU8Y95pHuxJ1QVd9B-CIGll44O/view?usp=sharing
 
 **Video Highlights:**
 - Add, edit, delete activities
@@ -42,14 +42,15 @@ TimeWise is a **web-based time tracking app** that helps users log daily activit
 
 ---
 ## Screenshot
-("https://drive.google.com/file/d/1lF-9tfsceGkL2zV2BYisDIx_xpHozjy-/view?usp=sharing")
+https://drive.google.com/file/d/1lF-9tfsceGkL2zV2BYisDIx_xpHozjy-/view?usp=sharing
 
 
 
 ## How to Run Locally
 
-1. **Clone the repository**  
-```bash
+
+```1. **Clone the repository**  
+bash
 git clone <https://github.com/yasaswinireddy119/AI-Powered-Daily-Time-Tracking-Analytics-Dashboard/blob/main/index.html>
 cd timewise```
 
